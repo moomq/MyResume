@@ -6,7 +6,7 @@ Brief Description of Myself
 广西桂林	未婚 |	电子科技大学	
 13014853078   |	13014853078@163.com	
 
-	个人优势
+个人优势
 1．三年嵌入式开发经验，熟悉单片机及Linux应用开发；  
 2．熟悉FreeRTOS、RT-Thread等实时操作的应用及Linux+Qt系统开发； 
 3．熟练使用C/C++、shell；
